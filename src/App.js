@@ -62,12 +62,12 @@ class Game extends React.Component {
 
     var towers = [
       {position: 3, height: 5, upright: true},
-      {position: 7, height: 8, upright: false},
-      {position: 18, height: 7, upright: true},
-      {position: 14, height: 6, upright: false},
-      {position: 18, height: 7, upright: true},
+      {position: 5, height: 8, upright: false},
+      {position: 8, height: 7, upright: true},
       {position: 12, height: 3, upright: false},
+      {position: 14, height: 6, upright: false},
       {position: 16, height: 8, upright: true},
+      {position: 18, height: 7, upright: true},
       {position: 19, height: 2, upright: false}
     ]
 
